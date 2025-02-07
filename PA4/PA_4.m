@@ -1,3 +1,8 @@
+nx = 100;
+ny = 100;
+
+ni = 10000;
+
 for i = 1:ni
     for j = 1:nx
         for k = 1:ny
